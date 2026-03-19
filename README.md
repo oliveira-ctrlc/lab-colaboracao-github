@@ -1,2 +1,2 @@
 # lab-colaboracao-github
-Este é um projet de exemplo para colaboracao no GitHub.
+Este é um projeto de exemplo.
